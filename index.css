@@ -6,6 +6,9 @@
     font-family: 'Poppins', sans-serif;
 
 }
+body{
+    background-color: #1f242d;
+}
 a{
     color: #fff;
     text-decoration: none;
@@ -230,7 +233,6 @@ a{
         gap: 30px;
         text-align: center;
     }
-
     .home-img .img-box {
         top: 50px;
         width: 60vw;
@@ -271,13 +273,16 @@ a{
     }
     .navbar ul li a {
         font-size: 7px;
-        color: #1f242d;
+        margin-left: -9px;
     }
-    .navbar ul li.active a{
+    /* .navbar ul li.active a{
         color: #1f242d;
-    }
+    } */
     .navbar .logo{
         font-size: 15px;
+    }
+    .navbar ul{
+        margin-right: 12px;
     }
     .navbar ul li{
         margin-left: 30px;
