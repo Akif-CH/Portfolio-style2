@@ -263,6 +263,9 @@ a{
         font-size: 9px;
         margin-bottom: 10px;
     }
+    .home-info .btn-sci{
+        background: #1f242d;
+    }
         .home-info .btn-sci .sci{
             display: flex;
             margin-bottom: 10px;
@@ -272,14 +275,14 @@ a{
 
     }
     .navbar ul li a {
-        font-size: 7px;
-        margin-left: -9px;
+        font-size: 8px;
+        margin-left: -5px;
     }
     /* .navbar ul li.active a{
         color: #1f242d;
     } */
     .navbar .logo{
-        font-size: 15px;
+        font-size: 21px;
     }
     .navbar ul{
         margin-right: 12px;
